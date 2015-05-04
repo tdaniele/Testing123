@@ -58,6 +58,25 @@ MainGroup;16;Wall Finish;;;;;187;Stone on Masonry;UsualMaterial
 MainGroup;16;Wall Finish;;;;;188;Stone, Solid, 12" Thick;UsualMaterial
 MainGroup;16;Wall Finish;;;;;189;Stone, Solid, 18" Thick;UsualMaterial
 MainGroup;16;Wall Finish;;;;;190;Stone, Solid 24" Thick;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;143;Tile, Cork;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;144;Tile, Metal;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;145;Wallpaper, Vinyl;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;309;None;NoneMaterial
+MainGroup;14;Cooling;;;;;147;Chilled Water, with Air Handling Units;UsualMaterial
+MainGroup;14;Cooling;;;;;148;Chilled Water, with Fan Coil Units;UsualMaterial
+MainGroup;14;Cooling;;;;;149;Evaporative Cooler;UsualMaterial
+MainGroup;14;Cooling;;;;;150;Forced Cool Air;UsualMaterial
+MainGroup;14;Cooling;;;;;151;Heat Pump;UsualMaterial
+MainGroup;14;Cooling;;;;;152;Rooftop Unit;UsualMaterial
+MainGroup;14;Cooling;;;;;153;Thru-Wall Units;UsualMaterial
+MainGroup;14;Cooling;;;;;154;Unit Air Conditioners, Air Cooled;UsualMaterial
+MainGroup;14;Cooling;;;;;155;Unit Air Conditioners, Water Cooled;UsualMaterial
+MainGroup;14;Cooling;;;;;310;None;NoneMaterial
+MainGroup;15;Electrical;;;;;157;High Quality;UsualMaterial
+MainGroup;15;Electrical;;;;;158;Average Quality;UsualMaterial
+MainGroup;15;Electrical;;;;;159;Low Quality;UsualMaterial
+MainGroup;15;Electrical;;;;;160;No Electrical;NoneMaterial
+MainGroup;16;Wall Finish;;;;;161;Adobe Block;UsualMaterial
 MainGroup;16;Wall Finish;;;;;191;Stucco on Frame;UsualMaterial
 MainGroup;16;Wall Finish;;;;;192;Stucco on Masonry;UsualMaterial
 MainGroup;16;Wall Finish;;;;;311;None;NoneMaterial
@@ -66,12 +85,6 @@ MainGroup;17;Floor Finish;;;;;195;Carpet;UsualMaterial
 MainGroup;17;Floor Finish;;;;;196;Concrete Sealer or Topping;UsualMaterial
 MainGroup;17;Floor Finish;;;;;197;Epoxy;UsualMaterial
 MainGroup;17;Floor Finish;;;;;198;Gratings;UsualMaterial
-MainGroup;17;Floor Finish;;;;;199;Hardwood;UsualMaterial
-MainGroup;17;Floor Finish;;;;;200;Hardwood Gym Floor;UsualMaterial
-MainGroup;17;Floor Finish;;;;;201;Linoleum;UsualMaterial
-MainGroup;17;Floor Finish;;;;;202;Marble;UsualMaterial
-MainGroup;17;Floor Finish;;;;;203;Pedestal;UsualMaterial
-MainGroup;17;Floor Finish;;;;;204;Seamless;UsualMaterial
 MainGroup;17;Floor Finish;;;;;205;Slate;UsualMaterial
 MainGroup;17;Floor Finish;;;;;206;Synthetic Gym Floor;UsualMaterial
 MainGroup;17;Floor Finish;;;;;207;Terrazzo;UsualMaterial
