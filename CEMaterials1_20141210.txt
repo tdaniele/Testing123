@@ -1,0 +1,151 @@
+From;GroupID;GroupDescription;ParentGroupID;ParentGroupDescription;SubGroupID;SubGroupDescription;ItemID;ItemDescription;ExtendedType
+MainGroup;13;Ceiling Finish;;;;;132;Cold Storage Insulation;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;133;Drywall;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;134;Drywall, Vinyl Covered;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;135;Paint;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;136;Paneling, Wood;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;137;Plaster, Sprayed;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;138;Plaster, on Lath;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;139;Plywood / Hardwood / Fiberboard;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;140;Suspended Acoustical;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;141;Textured Finish;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;142;Tile, Acoustical;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;143;Tile, Cork;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;144;Tile, Metal;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;145;Wallpaper, Vinyl;UsualMaterial
+MainGroup;13;Ceiling Finish;;;;;309;None;NoneMaterial
+MainGroup;14;Cooling;;;;;147;Chilled Water, with Air Handling Units;UsualMaterial
+MainGroup;14;Cooling;;;;;148;Chilled Water, with Fan Coil Units;UsualMaterial
+MainGroup;14;Cooling;;;;;149;Evaporative Cooler;UsualMaterial
+MainGroup;14;Cooling;;;;;150;Forced Cool Air;UsualMaterial
+MainGroup;14;Cooling;;;;;151;Heat Pump;UsualMaterial
+MainGroup;14;Cooling;;;;;152;Rooftop Unit;UsualMaterial
+MainGroup;14;Cooling;;;;;153;Thru-Wall Units;UsualMaterial
+MainGroup;14;Cooling;;;;;154;Unit Air Conditioners, Air Cooled;UsualMaterial
+MainGroup;14;Cooling;;;;;155;Unit Air Conditioners, Water Cooled;UsualMaterial
+MainGroup;14;Cooling;;;;;310;None;NoneMaterial
+MainGroup;15;Electrical;;;;;157;High Quality;UsualMaterial
+MainGroup;15;Electrical;;;;;158;Average Quality;UsualMaterial
+MainGroup;15;Electrical;;;;;159;Low Quality;UsualMaterial
+MainGroup;15;Electrical;;;;;160;No Electrical;NoneMaterial
+MainGroup;16;Wall Finish;;;;;161;Adobe Block;UsualMaterial
+MainGroup;16;Wall Finish;;;;;162;Brick on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;163;Brick on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;164;Brick, Solid;UsualMaterial
+MainGroup;16;Wall Finish;;;;;165;Brick, Solid, 18" Thick;UsualMaterial
+MainGroup;16;Wall Finish;;;;;166;Brick, Solid, 24" Thick;UsualMaterial
+MainGroup;16;Wall Finish;;;;;167;Concrete Block;UsualMaterial
+MainGroup;16;Wall Finish;;;;;168;Concrete Block, Split Face;UsualMaterial
+MainGroup;16;Wall Finish;;;;;169;Concrete, Poured-in-Place, 7" to 10";UsualMaterial
+MainGroup;16;Wall Finish;;;;;170;Concrete, Precast Panels;UsualMaterial
+MainGroup;16;Wall Finish;;;;;171;Concrete, Tilt-up Panels;UsualMaterial
+MainGroup;16;Wall Finish;;;;;172;Curtain Wall, Glass;UsualMaterial
+MainGroup;16;Wall Finish;;;;;173;Curtain Wall, Granite;UsualMaterial
+MainGroup;16;Wall Finish;;;;;174;EIFS on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;175;EIFS on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;176;Glass Block;UsualMaterial
+MainGroup;16;Wall Finish;;;;;177;Granite Block, Solid, 24" Thick;UsualMaterial
+MainGroup;16;Wall Finish;;;;;178;Insulated Sandwich Panels;UsualMaterial
+MainGroup;16;Wall Finish;;;;;179;Siding, Fiber Cement on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;180;Siding, Fiber Cement on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;181;Siding, Metal or Other on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;182;Siding, Metal or Other on Girts;UsualMaterial
+MainGroup;16;Wall Finish;;;;;183;Siding, Metal or Other on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;184;Siding, Wood on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;185;Siding, Wood on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;186;Stone on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;187;Stone on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;188;Stone, Solid, 12" Thick;UsualMaterial
+MainGroup;16;Wall Finish;;;;;189;Stone, Solid, 18" Thick;UsualMaterial
+MainGroup;16;Wall Finish;;;;;190;Stone, Solid 24" Thick;UsualMaterial
+MainGroup;16;Wall Finish;;;;;191;Stucco on Frame;UsualMaterial
+MainGroup;16;Wall Finish;;;;;192;Stucco on Masonry;UsualMaterial
+MainGroup;16;Wall Finish;;;;;311;None;NoneMaterial
+MainGroup;17;Floor Finish;;;;;194;Brick;UsualMaterial
+MainGroup;17;Floor Finish;;;;;195;Carpet;UsualMaterial
+MainGroup;17;Floor Finish;;;;;196;Concrete Sealer or Topping;UsualMaterial
+MainGroup;17;Floor Finish;;;;;197;Epoxy;UsualMaterial
+MainGroup;17;Floor Finish;;;;;198;Gratings;UsualMaterial
+MainGroup;17;Floor Finish;;;;;199;Hardwood;UsualMaterial
+MainGroup;17;Floor Finish;;;;;200;Hardwood Gym Floor;UsualMaterial
+MainGroup;17;Floor Finish;;;;;201;Linoleum;UsualMaterial
+MainGroup;17;Floor Finish;;;;;202;Marble;UsualMaterial
+MainGroup;17;Floor Finish;;;;;203;Pedestal;UsualMaterial
+MainGroup;17;Floor Finish;;;;;204;Seamless;UsualMaterial
+MainGroup;17;Floor Finish;;;;;205;Slate;UsualMaterial
+MainGroup;17;Floor Finish;;;;;206;Synthetic Gym Floor;UsualMaterial
+MainGroup;17;Floor Finish;;;;;207;Terrazzo;UsualMaterial
+MainGroup;17;Floor Finish;;;;;208;Tile, Asphalt;UsualMaterial
+MainGroup;17;Floor Finish;;;;;209;Tile, Ceramic;UsualMaterial
+MainGroup;17;Floor Finish;;;;;210;Tile, Quarry;UsualMaterial
+MainGroup;17;Floor Finish;;;;;211;Tile, Rubber;UsualMaterial
+MainGroup;17;Floor Finish;;;;;212;Tile, Vinyl Composite;UsualMaterial
+MainGroup;17;Floor Finish;;;;;213;Vinyl Sheet;UsualMaterial
+MainGroup;17;Floor Finish;;;;;312;None;NoneMaterial
+MainGroup;18;Heating;;;;;215;Boiler and Piping Only;UsualMaterial
+MainGroup;18;Heating;;;;;216;Electric Baseboard or Wall Unit;UsualMaterial
+MainGroup;18;Heating;;;;;217;Forced Warm Air;UsualMaterial
+MainGroup;18;Heating;;;;;218;Gas, Oil, or Electric Suspended Unit Heater;UsualMaterial
+MainGroup;18;Heating;;;;;219;Heat Pump;UsualMaterial
+MainGroup;18;Heating;;;;;220;Rooftop Unit;UsualMaterial
+MainGroup;18;Heating;;;;;221;Steam/Hot Water with Radiators;UsualMaterial
+MainGroup;18;Heating;;;;;222;Steam/Hot Water with Unit Heaters;UsualMaterial
+MainGroup;18;Heating;;;;;223;Thru-Wall Units;UsualMaterial
+MainGroup;18;Heating;;;;;224;Ventilation Only;UsualMaterial
+MainGroup;18;Heating;;;;;313;None;NoneMaterial
+MainGroup;19;Wall Finish;;;;;226;Cold Storage Insulation;UsualMaterial
+MainGroup;19;Wall Finish;;;;;227;Drywall;UsualMaterial
+MainGroup;19;Wall Finish;;;;;228;Epoxy;UsualMaterial
+MainGroup;19;Wall Finish;;;;;229;Paint;UsualMaterial
+MainGroup;19;Wall Finish;;;;;230;Paneling, Solid Wood;UsualMaterial
+MainGroup;19;Wall Finish;;;;;231;Plaster, Sprayed;UsualMaterial
+MainGroup;19;Wall Finish;;;;;232;Plaster, on Lath;UsualMaterial
+MainGroup;19;Wall Finish;;;;;233;Plywood / Hardwood / Fiberboard;UsualMaterial
+MainGroup;19;Wall Finish;;;;;234;Sheetmetal;UsualMaterial
+MainGroup;19;Wall Finish;;;;;235;Textured Finish;UsualMaterial
+MainGroup;19;Wall Finish;;;;;236;Tile, Acoustical;UsualMaterial
+MainGroup;19;Wall Finish;;;;;237;Tile, Ceramic;UsualMaterial
+MainGroup;19;Wall Finish;;;;;238;Tile, Quarry;UsualMaterial
+MainGroup;19;Wall Finish;;;;;239;Wallpaper, Vinyl;UsualMaterial
+MainGroup;19;Wall Finish;;;;;314;None;NoneMaterial
+MainGroup;20;Wall Structure;;;;;241;Brick, Solid;UsualMaterial
+MainGroup;20;Wall Structure;;;;;242;Concrete Block;UsualMaterial
+MainGroup;20;Wall Structure;;;;;243;Concrete, Poured-in-Place;UsualMaterial
+MainGroup;20;Wall Structure;;;;;244;Demountable;UsualMaterial
+MainGroup;20;Wall Structure;;;;;245;Folding;UsualMaterial
+MainGroup;20;Wall Structure;;;;;246;Glass Block;UsualMaterial
+MainGroup;20;Wall Structure;;;;;247;Glass Wall;UsualMaterial
+MainGroup;20;Wall Structure;;;;;248;Studs, Girts, etc.;UsualMaterial
+MainGroup;20;Wall Structure;;;;;249;Tile, Clay;UsualMaterial
+MainGroup;20;Wall Structure;;;;;250;Woven Wire Panels;UsualMaterial
+MainGroup;20;Wall Structure;;;;;315;None;NoneMaterial
+MainGroup;21;Roof Finish;;;;;252;Aluminum;UsualMaterial
+MainGroup;21;Roof Finish;;;;;253;Built-Up/Tar and Gravel;UsualMaterial
+MainGroup;21;Roof Finish;;;;;254;Built-Up, Smooth;UsualMaterial
+MainGroup;21;Roof Finish;;;;;255;Copper;UsualMaterial
+MainGroup;21;Roof Finish;;;;;256;Fiberglass, Translucent Panels;UsualMaterial
+MainGroup;21;Roof Finish;;;;;257;Metal Sandwich Panels;UsualMaterial
+MainGroup;21;Roof Finish;;;;;258;Mineral Fiber;UsualMaterial
+MainGroup;21;Roof Finish;;;;;259;Shakes, Wood;UsualMaterial
+MainGroup;21;Roof Finish;;;;;260;Shingles, Asphalt;UsualMaterial
+MainGroup;21;Roof Finish;;;;;261;Shingles, Fiberglass;UsualMaterial
+MainGroup;21;Roof Finish;;;;;262;Single-Ply Membrane;UsualMaterial
+MainGroup;21;Roof Finish;;;;;263;Slate;UsualMaterial
+MainGroup;21;Roof Finish;;;;;264;Steel;UsualMaterial
+MainGroup;21;Roof Finish;;;;;265;Steel,  Porcelain Coated;UsualMaterial
+MainGroup;21;Roof Finish;;;;;266;Tile, Clay;UsualMaterial
+MainGroup;21;Roof Finish;;;;;267;Tile, Concrete;UsualMaterial
+MainGroup;21;Roof Finish;;;;;268;Tin (Terne);UsualMaterial
+MainGroup;21;Roof Finish;;;;;316;None;NoneMaterial
+MainGroup;22;Roof Pitch;;;;;270;Flat;UsualMaterial
+MainGroup;22;Roof Pitch;;;;;271;Low       (2:12 to 6:12 pitch);UsualMaterial
+MainGroup;22;Roof Pitch;;;;;272;Medium (8:12 to 12:12 pitch);UsualMaterial
+MainGroup;22;Roof Pitch;;;;;273;High      (15:12 to 24:12 pitch);UsualMaterial
+MainGroup;44;Fire Protection Systems;;;;;279;Sprinkler System;UsualMaterial
+MainGroup;44;Fire Protection Systems;;;;;280;Manual Fire Alarm System;UsualMaterial
+MainGroup;44;Fire Protection Systems;;;;;281;Automatic Fire Alarm System;UsualMaterial
+MainGroup;45;Plumbing;;;;;282;Number of Fixtures;UsualMaterial
+MainGroup;46;Elevators;;;;;283;Number of Passenger Elevators;UsualMaterial
+MainGroup;46;Elevators;;;;;284;Number of Freight Elevators;UsualMaterial
+MainGroup;47;Wall Openings;;;;;285;Wall Openings;UsualMaterial
+MainGroup;49;Total Length;;;;;286;Total Length;UsualMaterial

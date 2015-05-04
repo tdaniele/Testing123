@@ -1,0 +1,264 @@
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Cold Storage Insulation
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Drywall
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Drywall, Vinyl Covered
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Paint
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Paneling, Wood
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Plaster, Sprayed
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Plaster, on Lath
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Plywood / Hardwood / Fiberboard
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Suspended Acoustical
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Textured Finish
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Acoustical
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Cork
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Metal
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Wallpaper, Vinyl
+Data Desc: Ceiling Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Chilled Water, with Air Handling Units
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Chilled Water, with Fan Coil Units
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Evaporative Cooler
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Forced Cool Air
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Heat Pump
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Rooftop Unit
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Thru-Wall Units
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Unit Air Conditioners, Air Cooled
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Unit Air Conditioners, Water Cooled
+Data Desc: Cooling, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Electrical, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: High Quality
+Data Desc: Electrical, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Average Quality
+Data Desc: Electrical, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Low Quality
+Data Desc: Electrical, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: No Electrical
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Adobe Block
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick, Solid
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick, Solid, 18" Thick
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick, Solid, 24" Thick
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete Block
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete Block, Split Face
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete, Poured-in-Place, 7" to 10"
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete, Precast Panels
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete, Tilt-up Panels
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Curtain Wall, Glass
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Curtain Wall, Granite
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: EIFS on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: EIFS on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Glass Block
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Granite Block, Solid, 24" Thick
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Insulated Sandwich Panels
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Fiber Cement on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Fiber Cement on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Metal or Other on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Metal or Other on Girts
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Metal or Other on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Wood on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Siding, Wood on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stone on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stone on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stone, Solid, 12" Thick
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stone, Solid, 18" Thick
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stone, Solid 24" Thick
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stucco on Frame
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Stucco on Masonry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Carpet
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete Sealer or Topping
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Epoxy
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Gratings
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Hardwood
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Hardwood Gym Floor
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Linoleum
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Marble
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Pedestal
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Seamless
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Slate
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Synthetic Gym Floor
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Terrazzo
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Asphalt
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Ceramic
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Quarry
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Rubber
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Vinyl Composite
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Vinyl Sheet
+Data Desc: Floor Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Boiler and Piping Only
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Electric Baseboard or Wall Unit
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Forced Warm Air
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Gas, Oil, or Electric Suspended Unit Heater
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Heat Pump
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Rooftop Unit
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Steam/Hot Water with Radiators
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Steam/Hot Water with Unit Heaters
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Thru-Wall Units
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Ventilation Only
+Data Desc: Heating, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Cold Storage Insulation
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Drywall
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Epoxy
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Paint
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Paneling, Solid Wood
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Plaster, Sprayed
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Plaster, on Lath
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Plywood / Hardwood / Fiberboard
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Sheetmetal
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Textured Finish
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Acoustical
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Ceramic
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Quarry
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Wallpaper, Vinyl
+Data Desc: Wall Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Brick, Solid
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete Block
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Concrete, Poured-in-Place
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Demountable
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Folding
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Glass Block
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Glass Wall
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Studs, Girts, etc.
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Clay
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Woven Wire Panels
+Data Desc: Wall Structure, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Aluminum
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Built-Up/Tar and Gravel
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Built-Up, Smooth
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Copper
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Fiberglass, Translucent Panels
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Metal Sandwich Panels
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Mineral Fiber
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Shakes, Wood
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Shingles, Asphalt
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Shingles, Fiberglass
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Single-Ply Membrane
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Slate
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Steel
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Steel,  Porcelain Coated
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Clay
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tile, Concrete
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Tin (Terne)
+Data Desc: Roof Finish, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: None
+Data Desc: Roof Pitch, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Flat
+Data Desc: Roof Pitch, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Low       (2:12 to 6:12 pitch)
+Data Desc: Roof Pitch, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Medium (8:12 to 12:12 pitch)
+Data Desc: Roof Pitch, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: High      (15:12 to 24:12 pitch)
+Data Desc: Mechanicals, SubCategory: Electrical,  SubMaterial Desc: High Quality
+Data Desc: Mechanicals, SubCategory: Electrical,  SubMaterial Desc: Average Quality
+Data Desc: Mechanicals, SubCategory: Electrical,  SubMaterial Desc: Low Quality
+Data Desc: Mechanicals, SubCategory: Electrical,  SubMaterial Desc: No Electrical
+Data Desc: Mechanicals, SubCategory: Fire Protection Systems,  SubMaterial Desc: Sprinkler System
+Data Desc: Mechanicals, SubCategory: Fire Protection Systems,  SubMaterial Desc: Manual Fire Alarm System
+Data Desc: Mechanicals, SubCategory: Fire Protection Systems,  SubMaterial Desc: Automatic Fire Alarm System
+Data Desc: Mechanicals, SubCategory: Plumbing,  SubMaterial Desc: Number of Fixtures
+Data Desc: Mechanicals, SubCategory: Elevators,  SubMaterial Desc: Number of Passenger Elevators
+Data Desc: Mechanicals, SubCategory: Elevators,  SubMaterial Desc: Number of Freight Elevators
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Chilled Water, with Air Handling Units
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Chilled Water, with Fan Coil Units
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Evaporative Cooler
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Forced Cool Air
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Heat Pump
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Rooftop Unit
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Thru-Wall Units
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Unit Air Conditioners, Air Cooled
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: Unit Air Conditioners, Water Cooled
+Data Desc: Heating & Cooling, SubCategory: Cooling,  SubMaterial Desc: None
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Boiler and Piping Only
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Electric Baseboard or Wall Unit
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Forced Warm Air
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Gas, Oil, or Electric Suspended Unit Heater
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Heat Pump
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Rooftop Unit
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Steam/Hot Water with Radiators
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Steam/Hot Water with Unit Heaters
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Thru-Wall Units
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: Ventilation Only
+Data Desc: Heating & Cooling, SubCategory: Heating,  SubMaterial Desc: None
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Adobe Block
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Brick on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Brick on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Brick, Solid
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Brick, Solid, 18" Thick
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Brick, Solid, 24" Thick
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Concrete Block
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Concrete Block, Split Face
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Concrete, Poured-in-Place, 7" to 10"
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Concrete, Precast Panels
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Concrete, Tilt-up Panels
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Curtain Wall, Glass
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Curtain Wall, Granite
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: EIFS on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: EIFS on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Glass Block
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Granite Block, Solid, 24" Thick
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Insulated Sandwich Panels
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Fiber Cement on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Fiber Cement on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Metal or Other on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Metal or Other on Girts
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Metal or Other on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Wood on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Siding, Wood on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stone on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stone on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stone, Solid, 12" Thick
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stone, Solid, 18" Thick
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stone, Solid 24" Thick
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stucco on Frame
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Stucco on Masonry
+Data Desc: Exterior Walls, SubCategory: Wall Finish,  SubMaterial Desc: None
+Data Desc: Exterior Walls, SubCategory: Wall Openings,  SubMaterial Desc: Wall Openings
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Aluminum
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Built-Up/Tar and Gravel
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Built-Up, Smooth
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Copper
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Fiberglass, Translucent Panels
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Metal Sandwich Panels
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Mineral Fiber
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Shakes, Wood
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Shingles, Asphalt
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Shingles, Fiberglass
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Single-Ply Membrane
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Slate
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Steel
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Steel,  Porcelain Coated
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Tile, Clay
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Tile, Concrete
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: Tin (Terne)
+Data Desc: Roof, SubCategory: Roof Finish,  SubMaterial Desc: None
+Data Desc: Roof, SubCategory: Roof Pitch,  SubMaterial Desc: Flat
+Data Desc: Roof, SubCategory: Roof Pitch,  SubMaterial Desc: Low       (2:12 to 6:12 pitch)
+Data Desc: Roof, SubCategory: Roof Pitch,  SubMaterial Desc: Medium (8:12 to 12:12 pitch)
+Data Desc: Roof, SubCategory: Roof Pitch,  SubMaterial Desc: High      (15:12 to 24:12 pitch)
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Cold Storage Insulation
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Drywall
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Epoxy
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Paint
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Paneling, Solid Wood
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Plaster, Sprayed
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Plaster, on Lath
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Plywood / Hardwood / Fiberboard
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Sheetmetal
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Textured Finish
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Tile, Acoustical
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Tile, Ceramic
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Tile, Quarry
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: Wallpaper, Vinyl
+Data Desc: Interior Walls, SubCategory: Wall Finish,  SubMaterial Desc: None
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Brick, Solid
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Concrete Block
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Concrete, Poured-in-Place
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Demountable
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Folding
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Glass Block
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Glass Wall
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Studs, Girts, etc.
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Tile, Clay
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: Woven Wire Panels
+Data Desc: Interior Walls, SubCategory: Wall Structure,  SubMaterial Desc: None
+Data Desc: Interior Walls, SubCategory: Total Length,  SubMaterial Desc: Total Length
+Data Desc: Fire Protection Systems, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Sprinkler System
+Data Desc: Fire Protection Systems, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Manual Fire Alarm System
+Data Desc: Fire Protection Systems, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Automatic Fire Alarm System
+Data Desc: Plumbing, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Number of Fixtures
+Data Desc: Elevators, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Number of Passenger Elevators
+Data Desc: Elevators, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Number of Freight Elevators
+Data Desc: Wall Openings, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Wall Openings
+Data Desc: Total Length, Material Group: CE_Test_Harness.ReferenceService.MaterialGroup,  Description: Total Length

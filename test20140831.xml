@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Environment>Test</Environment>
+  <LastUpdated />
+  <Businesses>
+    <Business>
+      <BusinessName>Tommys Trampolines</BusinessName>
+      <BusinessReferenceNumber>POL-0001111</BusinessReferenceNumber>
+      <BusinessUser>Underwriter7</BusinessUser>
+      <BusinessDepartment>Lincoln Agency</BusinessDepartment>
+      <BusinessAddress>
+        <StreetAddress>5312 First Street</StreetAddress>
+        <City>Sandusky</City>
+        <State>OH</State>
+        <Zip>67849</Zip>
+      </BusinessAddress>
+      <BusinessLocations>
+        <Location>
+          <BusinessReferenceNumber>POL-0001111</BusinessReferenceNumber>
+          <LocationName>Main Location</LocationName>
+          <LocationNumber>1</LocationNumber>
+          <LocationAddress>
+            <StreetAddress>5312 First Street</StreetAddress>
+            <City>Sandusky</City>
+            <State>OH</State>
+            <Zip>67849</Zip>
+          </LocationAddress>
+          <IsHeadquarters>true</IsHeadquarters>
+          <Buildings>
+            <Building>
+              <BuildingName>Main Office</BuildingName>
+              <BuildingNumber>1</BuildingNumber>
+              <ConstructionTypes>
+                <ConstructionType>
+                  <ConstructionCode>2</ConstructionCode>
+                  <ConstructionDescription />
+                  <ConstructionPercentage>100</ConstructionPercentage>
+                  <BuildingType>Commercial</BuildingType>
+                </ConstructionType>
+              </ConstructionTypes>
+              <Occupancies>
+                <Occupancy>
+                  <OccupancyCode>1200</OccupancyCode>
+                  <OccupancyDescription>Basement</OccupancyDescription>
+                  <OccupancyPercentage>33</OccupancyPercentage>
+                </Occupancy>
+                <Occupancy>
+                  <OccupancyCode>1600</OccupancyCode>
+                  <OccupancyDescription />
+                  <OccupancyPercentage>67</OccupancyPercentage>
+                </Occupancy>
+              </Occupancies>
+              <GrossFloorArea>5500</GrossFloorArea>
+              <BuildingStories>2</BuildingStories>
+              <BuildingSprinkler>100</BuildingSprinkler>
+              <FireProtection>100</FireProtection>
+              <FireDetection>100</FireDetection>
+              <BuildingDepreciation>
+                <DepreciationType>Percentage</DepreciationType>
+                <Age>0</Age>
+                <Condition>0</Condition>
+                <Percentage>80</Percentage>
+              </BuildingDepreciation>
+              <BuildingElevators>3</BuildingElevators>
+              <BuildingTotalRCV>0</BuildingTotalRCV>
+              <BuildingTotalACV>0</BuildingTotalACV>
+              <BuildingRCVPerSquareFoot>0</BuildingRCVPerSquareFoot>
+            </Building>
+          </Buildings>
+          <LocationTotalRCV>0</LocationTotalRCV>
+          <LocationTotalACV>0</LocationTotalACV>
+          <LocationRCVPerSquareFoot>0</LocationRCVPerSquareFoot>
+        </Location>
+      </BusinessLocations>
+    </Business>
+    <Business>
+      <BusinessName>Acme Oyster Co</BusinessName>
+      <BusinessReferenceNumber>POL-0001112</BusinessReferenceNumber>
+      <BusinessUser>AgentUser3</BusinessUser>
+      <BusinessDepartment>Lincoln Agency</BusinessDepartment>
+      <BusinessAddress>
+        <StreetAddress>5312 First Street</StreetAddress>
+        <City>Milwaukee</City>
+        <State>WI</State>
+        <Zip>53218</Zip>
+      </BusinessAddress>
+      <BusinessLocations>
+        <Location>
+          <BusinessReferenceNumber>POL-0001112</BusinessReferenceNumber>
+          <LocationName>Main Location</LocationName>
+          <LocationNumber>1</LocationNumber>
+          <LocationAddress>
+            <StreetAddress>5312 First Street</StreetAddress>
+            <City>Milwaukee</City>
+            <State>WI</State>
+            <Zip>53218</Zip>
+          </LocationAddress>
+          <IsHeadquarters>true</IsHeadquarters>
+          <Buildings>
+            <Building>
+              <BuildingName>Main Office</BuildingName>
+              <BuildingNumber>1</BuildingNumber>
+              <ConstructionTypes>
+                <ConstructionType>
+                  <ConstructionCode>2</ConstructionCode>
+                  <ConstructionDescription />
+                  <ConstructionPercentage>100</ConstructionPercentage>
+                  <BuildingType>Commercial</BuildingType>
+                </ConstructionType>
+              </ConstructionTypes>
+              <Occupancies>
+                <Occupancy>
+                  <OccupancyCode>1200</OccupancyCode>
+                  <OccupancyDescription>Basement</OccupancyDescription>
+                  <OccupancyPercentage>33</OccupancyPercentage>
+                </Occupancy>
+                <Occupancy>
+                  <OccupancyCode>1600</OccupancyCode>
+                  <OccupancyDescription />
+                  <OccupancyPercentage>67</OccupancyPercentage>
+                </Occupancy>
+              </Occupancies>
+              <GrossFloorArea>5500</GrossFloorArea>
+              <BuildingStories>2</BuildingStories>
+              <BuildingSprinkler>100</BuildingSprinkler>
+              <FireProtection>100</FireProtection>
+              <FireDetection>100</FireDetection>
+              <BuildingDepreciation>
+                <DepreciationType>Percentage</DepreciationType>
+                <Age>0</Age>
+                <Condition>0</Condition>
+                <Percentage>30</Percentage>
+              </BuildingDepreciation>
+              <BuildingElevators>1</BuildingElevators>
+              <BuildingTotalRCV>0</BuildingTotalRCV>
+              <BuildingTotalACV>0</BuildingTotalACV>
+              <BuildingRCVPerSquareFoot>0</BuildingRCVPerSquareFoot>
+            </Building>
+          </Buildings>
+          <LocationTotalRCV>0</LocationTotalRCV>
+          <LocationTotalACV>0</LocationTotalACV>
+          <LocationRCVPerSquareFoot>0</LocationRCVPerSquareFoot>
+        </Location>
+      </BusinessLocations>
+    </Business>
+  </Businesses>
+</BusinessData>

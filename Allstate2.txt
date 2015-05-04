@@ -1,0 +1,39 @@
+14,Market Supply LLC,1747 S Halsted St.,60608,IL
+15,The Blakeley Group+ Inc.,2630 Flossmoor Rd.,60422,IL
+16,Plaza Medica Mexican PC,4660 W Thomas Rd.,85031,AZ
+17,Aroma Nail Inc.,2300 Lehigh Ave.,60026,IL
+18,Its All Good Nutrition,10135 E Via Linda,85258,AZ
+19,Robern Talkalai DBA Talkalai Technology Solutions,2692 Talkalai Ln.,85542,AZ
+20,Glen Roy Lindquist,2448 N Cicero Ave.,60639,IL
+21,Platinum Chiropractic of Highwood,320 Green Bay Road,60040,IL
+22,Richard Nguyen DBA Shelly’s Hair Place,4355 E University 114,85205,AZ
+23,Shagg Salon LLC,6644 E Tanque Verde Rd.,85715,AZ
+24,Paul Misterek,2525 E Bell Rd.,85032,AZ
+25,Alvin Ladensack,8024 N 51st Ave.,85302,AZ
+26,Lincoln Landreville & Keith Duncan,4610 E Grant Rd.,85712,AZ
+27,Thabet Khalidi,116 W Cushing St.,85701,AZ
+28,Jon-Paul Champine,503 Park Dr.,60043,IL
+29,JM Dollar,2232 S Archer Ave.,60616,IL
+30,UB Nails,709 Forest Ave.,60045,IL
+31,Thomas & Meseret Mahlum,1444 E 57th St.,60637,IL
+32,D K Ball and Associates+ Inc,19W322 Lake St.,60101,IL
+33,Evans Family Insurance & Financial Inc.,9121 159th St.,60487,IL
+34,Black Cloud LLC & Dr. Linda Roden DOSC,1870 W Winchester 143.,60048,IL
+35,Norman Chootong,3400 W Desert Inn Rd.,89102,NV
+36,Voice Plus Communications,2505 Anthem Village,89052,NV
+37,TD Hacker Insurance Agency LLC,9310 S Eastern Ave.,89123,NV
+38,HG Next Level Marketing+ LLC,7618 E Tasman Circle,85207,AZ
+39,Xtreme Vapour LLC,6690 W Cactus Rd.,85304,AZ
+40,Sheila Hoffman,522 Mannheim Rd.,60104,IL
+41,Thorakkal Corporation,10 S Riverside Ave.,60174,IL
+42,All Homes Realty Inc,214 N. Main St.,60102,IL
+43,Sue Drain,3443 E Atsina Dr.,85650,AZ
+44,Wali Horizons+ Inc,4080 Sunset Ln.,60062,IL
+45,Hot House Naturals Retail+ LLC,2144 N Road 1,86323,AZ
+46,BV USA Enterprise Inc.,1703 Carmen Dr.,60007,IL
+47,Posners Art Store+ Inc.,944 E University Blvd.,85719,AZ
+48,Lackinger Financial Services LLC,111 E Higgins Rd.,60136,IL
+49,Kwangbae Kim,1400 E 47th St.,60653,IL
+50,Mcnamee and Mahoney LTD,17N208 Route 31,60118,IL
+51,Pearl Center of Traditional Chinese Medicine,13540 W Camino Del Sol.,85375,AZ
+52,Southwest Physician Solutions,1232 E Broadway Rd.,85282,AZ
